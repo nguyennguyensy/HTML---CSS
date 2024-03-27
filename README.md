@@ -1,1 +1,12 @@
+<a> I know it looks like shit but please click the button</a>
+<style>
+    .hp {
+        background-color: rgb(121, 3, 3);  
+        border: 4px;
+        cursor: pointer; 
+        border-radius: 4px;
+        color :white;
+    }
+</style>
 
+<a href="HappyBirthDay.html"><button class = "hp"> Please click here</button></a>
